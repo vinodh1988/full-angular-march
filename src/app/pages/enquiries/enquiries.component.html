@@ -1,1 +1,12 @@
-<p>enquiries works!</p>
+<h3>Enquiries</h3>
+
+
+<div *ngFor="let enquiry of enquirylist" class="media mb-3">
+   
+    <div class="media-body">
+        <h5 class="mt-0">{{ enquiry.name }}</h5>
+        <p><strong>Email:</strong> {{ enquiry.email }}</p>
+        <p><strong>Service Type:</strong> {{ enquiry.serviceType }}</p>
+        <p>{{ enquiry.message }}</p>
+    </div>
+</div>
