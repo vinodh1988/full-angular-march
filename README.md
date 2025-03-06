@@ -49,3 +49,44 @@ the original function sends it
 
 this is used for processing logic that requires time and where
 data cannot be returned immediatly
+
+
+### pipes
+
+Pipes are generally used in the template of angular component
+
+it is applied on varibles used in the interpolation
+
+for example 
+
+{{ firstname | uppercase }}
+
+if firstname is Raj  after pipe application --> RAJ
+
+{{ price | currency : 'INR '}}
+
+if price is 2000 after pipe application -> ₹ 2000
+
+Pipes constituents
+--------------------
+
+* Pipe has a name
+* Pipe has a target
+* Pipe can have(optional) parameter(s)
+
+Pipe Targets
+-------------
+
+If pipe target is a scalar variable(string,number) the
+result would a transformed of formatted result
+
+if pipe target is an array usually the result is
+a filter of the array values(based on conditions array will be filtered)
+
+There are few inbuilt pipes for scalar variables
+
+there is no inbuilt pipes for targetting arrays(you have
+to create custom pipes)
+
+Pipes can be created in a custom way also
+both to be applied on scalar and arrays

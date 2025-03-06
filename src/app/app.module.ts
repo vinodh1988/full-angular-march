@@ -15,6 +15,8 @@ import { EnqiryFormComponent } from './pages/home/enqiry-form/enqiry-form.compon
 import { FormsModule } from '@angular/forms';
 import { LoginComponent } from './common/login/login.component';
 import { EnquiriesComponent } from './pages/enquiries/enquiries.component';
+import { FilterservicePipe } from './pipes/filterservice.pipe';
+import { HighlightPipe } from './pipes/highlight.pipe';
 
 @NgModule({
   declarations: [
@@ -28,7 +30,9 @@ import { EnquiriesComponent } from './pages/enquiries/enquiries.component';
     ServiceCardComponent,
     EnqiryFormComponent,
     LoginComponent,
-    EnquiriesComponent
+    EnquiriesComponent,
+    FilterservicePipe,
+    HighlightPipe
   ],
   imports: [
     BrowserModule,
