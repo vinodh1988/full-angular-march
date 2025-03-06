@@ -14,6 +14,7 @@ import { ServiceCardComponent } from './pages/home/service-card/service-card.com
 import { EnqiryFormComponent } from './pages/home/enqiry-form/enqiry-form.component';
 import { FormsModule } from '@angular/forms';
 import { LoginComponent } from './common/login/login.component';
+import { EnquiriesComponent } from './pages/enquiries/enquiries.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { LoginComponent } from './common/login/login.component';
     ContactItemComponent,
     ServiceCardComponent,
     EnqiryFormComponent,
-    LoginComponent
+    LoginComponent,
+    EnquiriesComponent
   ],
   imports: [
     BrowserModule,
