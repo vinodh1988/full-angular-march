@@ -1,7 +1,13 @@
 <h3>Enquiries</h3>
 
-
-<div *ngFor="let enquiry of enquirylist" class="media mb-3">
+<div class="alert alert-dark" role="alert">
+    Select Service Type:
+    <select [(ngModel)]="selected">
+       <option *ngFor="let service of serviceTypes" [value]="service">
+        {{ service }}</option>
+    </select>
+</div>
+<div *ngFor="let enquiry of enquirylist | filterservice:selected" class="media mb-3">
    
     <div class="media-body">
         <h5 class="mt-0">{{ enquiry.name  }}</h5>

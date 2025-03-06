@@ -8,7 +8,7 @@
     },
     {
       "id": 2,
-      "title": "Inbound &  Content Marketing",
+      "title": "Inbound & Content Marketing",
       "description": "We have a team of inbound-certified content experts, writers and designers who know your market and can develop an inbound marketing strategy that will help you attract visitors to your website, convert them into leads and then into customers.",
       "image": "inbound.jpg"
     },
@@ -42,191 +42,211 @@
       "id": "ef47",
       "name": "Joseph",
       "email": "joseph@gmail.com",
-      "serviceType": "Web Development",
+      "serviceType": "Branding and Communication",
       "message": "We need an ecommerce site to be done"
-    }
-    ,
+    },
     {
       "id": "ef48",
-      "name": "Alice",
-      "email": "alice@example.com",
-      "serviceType": "SEO",
-      "message": "Looking for SEO services for our new website."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Inbound & Content Marketing",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef49",
-      "name": "Bob",
-      "email": "bob@example.com",
-      "serviceType": "Content Marketing",
-      "message": "Need help with content marketing strategy."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Film &  Webinar",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef50",
-      "name": "Charlie",
-      "email": "charlie@example.com",
-      "serviceType": "Branding",
-      "message": "Interested in rebranding our company."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Digital Marketing",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef51",
-      "name": "David",
-      "email": "david@example.com",
-      "serviceType": "Web Development",
-      "message": "Require a new website for our business."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "ECommerce & Websites",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef52",
-      "name": "Eve",
-      "email": "eve@example.com",
-      "serviceType": "Digital Marketing",
-      "message": "Looking for digital marketing services."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Market Analysis",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef53",
-      "name": "Frank",
-      "email": "frank@example.com",
-      "serviceType": "Market Analysis",
-      "message": "Need market analysis for our new product."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Branding and Communication",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef54",
-      "name": "Grace",
-      "email": "grace@example.com",
-      "serviceType": "Film & Webinar",
-      "message": "Interested in creating a corporate film."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Inbound & Content Marketing",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef55",
-      "name": "Hank",
-      "email": "hank@example.com",
-      "serviceType": "ECommerce",
-      "message": "Need an ecommerce site for our store."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Film &  Webinar",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef56",
-      "name": "Ivy",
-      "email": "ivy@example.com",
-      "serviceType": "SEO",
-      "message": "Looking for SEO optimization."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Digital Marketing",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef57",
-      "name": "Jack",
-      "email": "jack@example.com",
-      "serviceType": "Content Marketing",
-      "message": "Need content marketing for our blog."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "ECommerce & Websites",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef58",
-      "name": "Kathy",
-      "email": "kathy@example.com",
-      "serviceType": "Branding",
-      "message": "Interested in branding services."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Market Analysis",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef59",
-      "name": "Leo",
-      "email": "leo@example.com",
-      "serviceType": "Web Development",
-      "message": "Require a new website design."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Branding and Communication",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef60",
-      "name": "Mona",
-      "email": "mona@example.com",
-      "serviceType": "Digital Marketing",
-      "message": "Looking for social media marketing."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Inbound & Content Marketing",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef61",
-      "name": "Nina",
-      "email": "nina@example.com",
-      "serviceType": "Market Analysis",
-      "message": "Need customer research for our service."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Film &  Webinar",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef62",
-      "name": "Oscar",
-      "email": "oscar@example.com",
-      "serviceType": "Film & Webinar",
-      "message": "Interested in hosting a webinar."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Digital Marketing",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef63",
-      "name": "Paul",
-      "email": "paul@example.com",
-      "serviceType": "ECommerce",
-      "message": "Need help with ecommerce platform."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "ECommerce & Websites",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef64",
-      "name": "Quinn",
-      "email": "quinn@example.com",
-      "serviceType": "SEO",
-      "message": "Looking for SEO audit."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Market Analysis",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef65",
-      "name": "Rachel",
-      "email": "rachel@example.com",
-      "serviceType": "Content Marketing",
-      "message": "Need content strategy for our website."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Branding and Communication",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef66",
-      "name": "Sam",
-      "email": "sam@example.com",
-      "serviceType": "Branding",
-      "message": "Interested in logo design."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Inbound & Content Marketing",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef67",
-      "name": "Tina",
-      "email": "tina@example.com",
-      "serviceType": "Web Development",
-      "message": "Require a responsive website."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Film &  Webinar",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef68",
-      "name": "Uma",
-      "email": "uma@example.com",
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
       "serviceType": "Digital Marketing",
-      "message": "Looking for PPC services."
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef69",
-      "name": "Vince",
-      "email": "vince@example.com",
-      "serviceType": "Market Analysis",
-      "message": "Need market insights for our campaign."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "ECommerce & Websites",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef70",
-      "name": "Wendy",
-      "email": "wendy@example.com",
-      "serviceType": "Film & Webinar",
-      "message": "Interested in creating a podcast."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Market Analysis",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef71",
-      "name": "Xander",
-      "email": "xander@example.com",
-      "serviceType": "ECommerce",
-      "message": "Need ecommerce integration."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Branding and Communication",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef72",
-      "name": "Yara",
-      "email": "yara@example.com",
-      "serviceType": "SEO",
-      "message": "Looking for SEO content creation."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Inbound & Content Marketing",
+      "message": "We need an ecommerce site to be done"
     },
     {
       "id": "ef73",
-      "name": "Zane",
-      "email": "zane@example.com",
-      "serviceType": "Content Marketing",
-      "message": "Need help with content distribution."
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Film & Webinar",
+      "message": "We need an ecommerce site to be done"
+    },
+    {
+      "id": "ef74",
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Digital Marketing",
+      "message": "We need an ecommerce site to be done"
+    },
+    {
+      "id": "ef75",
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "ECommerce & Websites",
+      "message": "We need an ecommerce site to be done"
+    },
+    {
+      "id": "ef76",
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "serviceType": "Market Analysis",
+      "message": "We need an ecommerce site to be done"
     }
   ]
 }

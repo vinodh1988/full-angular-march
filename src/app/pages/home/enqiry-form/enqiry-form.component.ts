@@ -15,12 +15,12 @@ export class EnqiryFormComponent {
  
   // I hard coded lol ... Yea I know it can be taken from api.json
   serviceTypes: string[] = [
-    "Web Development",
-    "Mobile App Development",
-    "Cybersecurity",
-    "Cloud Services",
-    "AI & ML Solutions",
-    "IT Consultancy"
+  'Branding and Communication',
+  'Inbound & Content Marketing',
+  'Film & Webinar',
+  'Digital Marketing',
+  'ECommerce & Websites',
+  'Market Analysis'
   ];
  
   constructor(private api: ApiService) {}

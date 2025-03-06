@@ -10,6 +10,18 @@ import { enquiry } from '../../model/enquiry';
 export class EnquiriesComponent {
   enquirylist: enquiry[] = [];
 
+  serviceTypes: string[] = [
+     'All',
+    'Branding and Communication',
+    'Inbound & Content Marketing',
+    'Film & Webinar',
+    'Digital Marketing',
+    'ECommerce & Websites',
+    'Market Analysis'
+    ];
+
+    selected:string='All';	
+
   constructor(private api:ApiService){
 
   }
