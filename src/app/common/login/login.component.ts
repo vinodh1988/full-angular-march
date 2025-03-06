@@ -19,8 +19,5 @@ export class LoginComponent {
   else alert("Invalid Credentials")
 }
 
-logout(){
-  localStorage.removeItem("username")
-  window.location.reload()
-}
+
 }
