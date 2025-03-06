@@ -6,5 +6,13 @@ import { Component } from '@angular/core';
   styleUrl: './menu-bar.component.css'
 })
 export class MenuBarComponent {
-
+  status:boolean=false;
+  loginmenu:string="Login"
+     constructor(){
+       let username = localStorage.getItem("username")
+        if(username){
+          this.status=true;
+          this.loginmenu=username+", Logout"
+        }
+     }
 }
