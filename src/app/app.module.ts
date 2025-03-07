@@ -17,6 +17,7 @@ import { LoginComponent } from './common/login/login.component';
 import { EnquiriesComponent } from './pages/enquiries/enquiries.component';
 import { FilterservicePipe } from './pipes/filterservice.pipe';
 import { HighlightPipe } from './pipes/highlight.pipe';
+import { ServiceDetailsComponent } from './pages/home/service-details/service-details.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,8 @@ import { HighlightPipe } from './pipes/highlight.pipe';
     LoginComponent,
     EnquiriesComponent,
     FilterservicePipe,
-    HighlightPipe
+    HighlightPipe,
+    ServiceDetailsComponent
   ],
   imports: [
     BrowserModule,

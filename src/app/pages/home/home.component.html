@@ -3,6 +3,7 @@
 <app-service-card
   *ngFor="let service of serviceslist"
   [service]="service"
+  (click)="onServiceClick(service.id)"
 ></app-service-card>
 
 <h3>Enquiries</h3>
