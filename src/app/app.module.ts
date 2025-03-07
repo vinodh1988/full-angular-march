@@ -12,12 +12,13 @@ import { ContactItemComponent } from './pages/contacts/contact-item/contact-item
 import { HttpClientModule } from '@angular/common/http';
 import { ServiceCardComponent } from './pages/home/service-card/service-card.component';
 import { EnqiryFormComponent } from './pages/home/enqiry-form/enqiry-form.component';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { LoginComponent } from './common/login/login.component';
 import { EnquiriesComponent } from './pages/enquiries/enquiries.component';
 import { FilterservicePipe } from './pipes/filterservice.pipe';
 import { HighlightPipe } from './pipes/highlight.pipe';
 import { ServiceDetailsComponent } from './pages/home/service-details/service-details.component';
+import { EnquiryResponseComponent } from './pages/enquiries/enquiry-response/enquiry-response.component';
 
 @NgModule({
   declarations: [
@@ -34,13 +35,15 @@ import { ServiceDetailsComponent } from './pages/home/service-details/service-de
     EnquiriesComponent,
     FilterservicePipe,
     HighlightPipe,
-    ServiceDetailsComponent
+    ServiceDetailsComponent,
+    EnquiryResponseComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    FormsModule
+    FormsModule, //template driven forms(ngModel)
+    ReactiveFormsModule //reactive forms (formControl and formBuilder)
   ],
   providers: [],
   bootstrap: [AppComponent]
