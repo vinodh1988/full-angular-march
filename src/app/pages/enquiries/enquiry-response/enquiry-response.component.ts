@@ -17,7 +17,7 @@ email:string[]= [];
     message: ['', Validators.required],
     estimatedPrice: ['', Validators.required],
     duration: ['', Validators.required],
-    email: ['', Validators.required],
+    email: [{value:'',disabled:true}, Validators.required],
     messageId: ['', Validators.required]
   });
 
@@ -33,7 +33,7 @@ email:string[]= [];
 }
 onIdChange(event: any) {
   const selectedId = event.target.value;
-  alert(this.email[selectedId]);
+
   this.enquiryForm.patchValue({ email: this.email[selectedId] });
 }
 
